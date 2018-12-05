@@ -46,12 +46,15 @@
         </activity>
         -->
 
-       <!-- <activity
+
+        <!--
+        <activity
             android:name=".LessonLayouts.ScrollViewActivity"
             android:label="@string/title_activity_scroll_view"
             android:theme="@style/AppTheme.NoActionBar">
 
-        </activity>-->
+        </activity>
+        -->
 
         <activity
             android:name=".LessonLayouts.ConstraintLayoutActivity"
@@ -62,7 +65,6 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
     </application>
 
